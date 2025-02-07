@@ -1,0 +1,16 @@
+<div class="game-container">
+  <h1>Jeu de clic</h1>
+    <p *ngIf="!gameStarted">Cliquez sur l'image pour commencer le jeu !</p>
+    <p *ngIf="gameStarted">Clics: {{ clickCount }} / {{ maxClicks }}</p>
+  
+    <img
+      draggable="false"
+      src="assets/img1.png"
+      [ngStyle]="{'top': position.top, 'left': position.left}"
+      (click)="onImageClick()"
+      class="game-image"
+      alt="hi"
+    />
+  
+    <button (click)="quitGame()">Quitter</button>
+</div>

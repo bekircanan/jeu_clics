@@ -1,0 +1,20 @@
+<div>
+  <button (click)="Menu()">Menu</button>
+  <table>
+    <tr>
+      <th>Pseudo</th>
+      <th>meilleur moment</th>
+      <th>Temps moyen</th>
+    </tr>
+    <tr *ngFor="let Gameh of paginatedScores " (click)="ShowClick(Gameh.id_partie)">
+      <td>{{ Gameh.pseudo }}</td>
+      <td>{{ Gameh.best_time }}</td>
+      <td>{{ Gameh.avg_time }}</td>
+    </tr>
+  </table>
+  <div class="pagination">
+    <button (click)="changePage(-1)" [disabled]="currentPage === 1">Précédent</button>
+    <span>Page {{ currentPage }} / {{ totalPages }}</span>
+    <button (click)="changePage(1)" [disabled]="currentPage === totalPages">Suivant</button>
+  </div>
+</div>

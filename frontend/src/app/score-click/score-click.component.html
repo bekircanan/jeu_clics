@@ -1,0 +1,7 @@
+<h2 mat-dialog-title>Détails du jeu</h2>
+<div *ngFor="let click of data.clicks || []">
+  <p>nombre {{click.nombre_clic}} : {{click.temps_clic}} </p>
+</div>
+<div>
+  <button mat-button (click)="closeDialog()">Fermer</button>
+</div>

@@ -1,0 +1,11 @@
+<div>
+  <h2>Classement de la partie</h2>
+  <ul>
+    <li>parmi les partie du pseudo( {{pseudo}} ) : {{classPseudo}}</li>
+    <li>parmi toutes les parties : {{classTout}} </li>
+  </ul>
+  <div *ngFor="let click of clicks ">
+    <p>nombre {{click.nombre_clic}} : {{click.temps_clic}} </p>
+  </div>
+  <button (click)="Menu()">Menu</button>
+</div>
