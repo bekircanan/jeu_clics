@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\",
+  "WorkspaceRootPath": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game-end\\game-end.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game-end\\game-end.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\score-click\\score-click.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\score-click\\score-click.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game-end\\game-end.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game-end\\game-end.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\scores\\scores.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\score-click\\score-click.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\score-click\\score-click.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\score.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\score.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\score.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\game.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\game.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\game.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game\\game.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\game\\game.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,163 +62,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T18:57:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "game.service.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\game.service.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\game.service.ts",
               "RelativeDocumentMoniker": "src\\app\\services\\game.service.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\game.service.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\game.service.ts",
               "RelativeToolTip": "src\\app\\services\\game.service.ts",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-06T15:50:58.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T15:50:58.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "score-click.component.scss",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.scss",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.scss",
               "RelativeDocumentMoniker": "src\\app\\score-click\\score-click.component.scss",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.scss",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.scss",
               "RelativeToolTip": "src\\app\\score-click\\score-click.component.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-02-06T15:15:56.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T15:15:56.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "score-click.component.html",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.html",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.html",
               "RelativeDocumentMoniker": "src\\app\\score-click\\score-click.component.html",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.html",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.html",
               "RelativeToolTip": "src\\app\\score-click\\score-click.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-06T15:12:02.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "score-click.component.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.ts",
               "RelativeDocumentMoniker": "src\\app\\score-click\\score-click.component.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\score-click\\score-click.component.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\score-click\\score-click.component.ts",
               "RelativeToolTip": "src\\app\\score-click\\score-click.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-06T15:11:33.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T15:11:33.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scores.component.scss",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.scss",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.scss",
+              "RelativeToolTip": "src\\app\\scores\\scores.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-02-06T13:38:36.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scores.component.html",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.html",
+              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.html",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.html",
+              "RelativeToolTip": "src\\app\\scores\\scores.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-06T12:20:45.985Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "scores.component.scss",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.scss",
-              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.scss",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.scss",
-              "RelativeToolTip": "src\\app\\scores\\scores.component.scss",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2025-02-06T13:38:36.922Z",
-              "EditorCaption": ""
+              "Title": "scores.component.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\scores\\scores.component.ts",
+              "RelativeToolTip": "src\\app\\scores\\scores.component.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T12:10:39.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "scores.component.html",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.html",
-              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.html",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.html",
-              "RelativeToolTip": "src\\app\\scores\\scores.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-06T12:20:45.985Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "score.service.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\score.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\score.service.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\services\\score.service.ts",
+              "RelativeToolTip": "src\\app\\services\\score.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-05T21:43:12.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "scores.component.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.ts",
-              "RelativeDocumentMoniker": "src\\app\\scores\\scores.component.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\scores\\scores.component.ts",
-              "RelativeToolTip": "src\\app\\scores\\scores.component.ts",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-06T12:10:39.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "score.service.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\score.service.ts",
-              "RelativeDocumentMoniker": "src\\app\\services\\score.service.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\services\\score.service.ts",
-              "RelativeToolTip": "src\\app\\services\\score.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-05T21:43:12.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "game-end.component.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.ts",
               "RelativeDocumentMoniker": "src\\app\\game-end\\game-end.component.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.ts",
               "RelativeToolTip": "src\\app\\game-end\\game-end.component.ts",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-04T10:46:56.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T10:46:56.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "game-end.component.html",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.html",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.html",
               "RelativeDocumentMoniker": "src\\app\\game-end\\game-end.component.html",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game-end\\game-end.component.html",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game-end\\game-end.component.html",
               "RelativeToolTip": "src\\app\\game-end\\game-end.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-04T10:38:59.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T10:38:59.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "game.component.html",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.html",
+              "RelativeDocumentMoniker": "src\\app\\game\\game.component.html",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.html",
+              "RelativeToolTip": "src\\app\\game\\game.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-03T19:46:43.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "game.component.html",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.html",
-              "RelativeDocumentMoniker": "src\\app\\game\\game.component.html",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.html",
-              "RelativeToolTip": "src\\app\\game\\game.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-03T19:46:43.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "game.component.ts",
-              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.ts",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.ts",
               "RelativeDocumentMoniker": "src\\app\\game\\game.component.ts",
-              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\frontend\\src\\app\\game\\game.component.ts",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\Jeu_canan_bekir\\frontend\\src\\app\\game\\game.component.ts",
               "RelativeToolTip": "src\\app\\game\\game.component.ts",
               "ViewState": "AgIAAD0AAAAAAAAAAAAgwFIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-03T19:40:04.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T19:40:04.162Z"
             }
           ]
         }

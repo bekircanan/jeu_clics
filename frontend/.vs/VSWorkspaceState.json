@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
     "\\src\\app",
     "\\src\\app\\game",
     "\\src\\app\\menu",
@@ -11,6 +10,6 @@
     "\\src\\app\\services",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\services\\game.service.ts",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
