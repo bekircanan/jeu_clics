@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\controllers\\endcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:controllers\\endcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\model\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:model\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\model\\gameh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:model\\gameh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|c:\\users\\bekir\\desktop\\jeu\\backend\\model\\gameclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE1088D-EB0B-48F4-B36C-6D0424F24FAA}|backend.csproj|solutionrelative:model\\gameclick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T13:46:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScoreController.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "Controllers\\ScoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:59:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndController.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\EndController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EndController.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\EndController.cs",
+              "RelativeToolTip": "Controllers\\EndController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:18:45.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:32:24.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gameh.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\Gameh.cs",
+              "RelativeDocumentMoniker": "Model\\Gameh.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\Gameh.cs",
+              "RelativeToolTip": "Model\\Gameh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:12:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:11:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameClick.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\GameClick.cs",
+              "RelativeDocumentMoniker": "Model\\GameClick.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\GameClick.cs",
+              "RelativeToolTip": "Model\\GameClick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:11:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigModel.cs",
+              "DocumentMoniker": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\ConfigModel.cs",
+              "RelativeDocumentMoniker": "Model\\ConfigModel.cs",
+              "ToolTip": "C:\\Users\\bekir\\Desktop\\jeu\\backend\\Model\\ConfigModel.cs",
+              "RelativeToolTip": "Model\\ConfigModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:11:35.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
